@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the most honourable assembly of the Commons House of Parliament. The humble petition of the distressed prisoners in the Kings Bench, and Fleete, and all others his Maiesties distressed subiects, now prisoners, within his Maiesties realme of England, and dominion of Wales.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14331</idno><idno type="EEBO-CITATION">99892548_188913</idno>
+  <idno type="VID">188913</idno>
+  <idno type="EEBO-PROQUEST">2288765443</idno>
+  
+            <idno type="STC">STC 14961.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[125]</idno>
+            <idno type="PROQUEST">ocm99892548</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892548e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188913)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the most honourable assembly of the Commons House of Parliament. The humble petition of the distressed prisoners in the Kings Bench, and Fleete, and all others his Maiesties distressed subiects, now prisoners, within his Maiesties realme of England, and dominion of Wales.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Urging an act for the release of prisoners of debt. ... A bill was read 18 Mar. 1624; ..." -- STC.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:188913:1"/>
+            <head>❧ To the most Honourable Assembly of the Commons House of Parliament.</head>
+            <div type="proemium">
+               <head>¶ The Humble petition of the distressed prisoners in the Kings Bench, and Fleete, and all others his Maiesties distressed Subiects, now Prisoners, within his Maiesties Realme of England, and Dominion of Wales.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>N most lamentable manner sheweth vnto your Honours, That whereas heretofore many good and lawdable Acts and Statutes haue beene made for the reliefe and prouision of maymed Souldiers, and also for the reliefe of the poore in euery Parish; But as yet no prouision or reliefe for poore distressed Prisoners in this Realme, which are many thousands in Eng<g ref="char:EOLhyphen"/>land whereof at this present, remaines in the</hi> 15. <hi>Prisons, in and about the City of London the number of</hi> 3500. <hi>able Sub<g ref="char:EOLhyphen"/>iects for his Maiesties seruice, if occasion serue of imployments: And forasmuch as this Honourable House is now making and establishing of many good Lawes, for the peace and good of this Common-wealth, which may well concurre and agree with the graue saying, of that worthy and Honourable member of this house</hi> (<hi>Sir</hi> Edward Coke <hi>Knight</hi>) <hi>in his fourth booke of Reports, giueth this Christian aduice to all Iudges and Iustices, that</hi> boni Iudicis interest lites dirimere;</p>
+               <p>
+                  <hi>Most humbly beseeching your Honours to commiserate our distressed estates, and to take into your Honourable and charitable consideration this our offered Bill heere in Parliament, And in your graue wisedomes, to make and establish some good and charitable Lawe, for the speedie reliefe and releasement of all such Prisoners now in distresse, or hereafter shall bee so imprisoned, as all other Christian nations hath done in this case, most humbly beseeching this honourable House, to further this our charitable sute.</hi>
+               </p>
+               <p>
+                  <hi>And your poore Petitioners will now, and euer heereafter, be bound on their bended knees to pray for these Houses of Parliament.</hi>
+               </p>
+            </div>
+            <div type="text">
+               <head>¶ The state of the Bill for Prisoners.</head>
+               <p>FIrst, That all Iustices of Peace within London, or within fiue miles of the said Citie, or any 6.4. or 3. of them, shall haue full power by the Act to examine the estate of euery Prisoner for debt, and so to see the Creditor paid to the value of his lands, estate, and goods, with some consideration for meanes, for wife, children, and family, and so to free them out of prison.</p>
+               <p>And likewise 6.4. or 3. discreete Gentlemen of good ranke and quality to bee chosen Commissioners in euery Shire and County, within England and Wales, by the <hi>Custos Rotulorum,</hi> or in his absence 4. of the ancientest Iustices in person at the Sessions, once euery yeere to doe the like, for releasement of Prisoners, as the Act more at large declareth, and so to free the Prisoners in euery Prison in the Countrey; And those Prisoners whose estates are nothing worth to be set at liberty.</p>
+               <p>And also the said Commissioners are by the Act enioyned to execute the same Act 4. seuerall times in euery yeere, <hi>viz.</hi> 10. dayes before euery quarter day.</p>
+            </div>
+            <div type="text">
+               <head>¶ Certaine good allegations and motiues, that an Act for the generall releasements of Priso<g ref="char:EOLhyphen"/>ners, is better then a Commission in particular for Prisoners in the Fleete and Kings Bench as hereafter followeth.</head>
+               <p n="1">1. FIrst an Act is more requisite then a Commission, for an Act will still free all his Maiesties Subiects generally in all Shires, whereas a Commission is but for the Prisoners in London; And when Prisoners are still released in all places, they are ready in person to serue their King and Countrey in all parts of this Realme.</p>
+               <p n="2">2 Secondly, diuers Prisoners are so poore (by reason of long imprisonment) as they are not able to remooue themselues from forraine Prisons to London, the Writs and Sheriffes charges of men and horses is so great.</p>
+               <p n="3">3 Thirdly, all or most part of their Creditors, are most commonly in or neere the Shires where they are imprisoned: So as if the Cre<g ref="char:EOLhyphen"/>ditors bee many, it will be a very great charge for them to be brought vp to London, or to be warned to be and appeare before Commissio<g ref="char:EOLhyphen"/>ners there, and some so aged as not able to trauaile vp to London without danger of death, whereas they may bee easier and readier to ap<g ref="char:EOLhyphen"/>peare in the Shire where they lie in Prison, by the Commissioners appointed for that Countrey then elsewhere.</p>
+               <p n="4">4 Fourthly, some Prisoners (being desperate men) or hauing many friends in those parts, where they lie in Prison in farre Countreys vpon execution for great summes of money: The Sheriffes hauing a Writ of <hi>(hab. Corpus cum Causa)</hi> to bring vp his bodie to London, will rather aduenture to be deepely fined, then to indanger the high Sheriffe to pay thousands of pounds for the Prisoners escape, as by daily experience it may appeare, which breedes many sutes betweene partie and partie, and vndoeth many a man and his sureties be hee neuer so carefull a Sheriffe.</p>
+               <p n="5">5 Fiftly, the Commissioners being appointed in euery Shire where the Prisoner is inhabiting, they being acquainted with the Prisoner will giue better credit to the testimony of their knowne neighbours, (either the Creditor, Debtor, or Witnesses) then Commissioners at London, of whom they cannot bee so soone, and so well, and truely informed of the difference who is an honest man, and who is not, either Debtor, Creditor, or Witnesse; So these men, and their estate and causes, are better knowne to the Gentlemen Commissioners where they dwell then elsewhere.</p>
+               <p n="6">6 Sixtly, the City of London, and the Suburbs and Liberties therof, and the City of Westminster, and the Borough of Southwarke and Liberties thereof, haue about the number of 15. Prisons and Goales, in which at this present time are many thousands of poore distressed Prisoners lying in great misery and want, which were more fitter at this present (if need should require) to serue their King and Countrey, then to lie there and perish vnder the hands of cruell Creditors, and barbarous vsing of their Goalers, and their base conditioned Officers.</p>
+               <p n="7">7 And therefore a charitable Act made that Commissioners may be appointed in euery Shire by the <hi>Custos Rotulorum,</hi> or foure of the ancientest Iustices at the Sessions will make a speedy dispatch, for the good of the Creditors payment, and for the Prisoners inlargement, as is in all other Christian Kingdomes; By which Act God will be glorified, the life of the Subiect preserued, the strength of the Kingdome maintained, wife, children, and family relieued, the Creditor sooner satisfied, and all good Subiects pleased.</p>
+               <p n="8">8 And this Act will bee for the generall good of all posterities euer hereafter, euen from the greatest Subiect to the poorest person, for it may concerne all degrees of Subiects, and in processe of time, preserue the estate of great and good mens posterity, which now vsurie and Vsurers doth daily swallow vp their Lands by morgages, by forfeitures, and extortion: By which meanes, diuers of the Nobility and Gen<g ref="char:EOLhyphen"/>trie of this Kingdome, are daily consumed by vsury and Vsurers, and by whom, thousands of Prisoners are imprisoned at this day.</p>
+               <p>All which wee leaue to Gods prouidence, and your Honourable, and wise consideration.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
